@@ -1,0 +1,9 @@
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschäft\BookstoreLibrary\bin\Debug\netstandard2.0\BookstoreLibrary.deps.json
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschäft\BookstoreLibrary\bin\Debug\netstandard2.0\BookstoreLibrary.dll
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschäft\BookstoreLibrary\bin\Debug\netstandard2.0\BookstoreLibrary.pdb
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschäft\BookstoreLibrary\obj\Debug\netstandard2.0\BookstoreLibrary.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschäft\BookstoreLibrary\obj\Debug\netstandard2.0\BookstoreLibrary.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschäft\BookstoreLibrary\obj\Debug\netstandard2.0\BookstoreLibrary.AssemblyInfo.cs
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschäft\BookstoreLibrary\obj\Debug\netstandard2.0\BookstoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschäft\BookstoreLibrary\obj\Debug\netstandard2.0\BookstoreLibrary.dll
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschäft\BookstoreLibrary\obj\Debug\netstandard2.0\BookstoreLibrary.pdb

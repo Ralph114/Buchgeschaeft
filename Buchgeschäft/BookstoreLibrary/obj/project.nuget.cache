@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x0qVRZ0PXEld2eqFT9+5UHOxPNykjVKnCGZBwHJ45G89qHS54xJ7/dOd/5+dC1gRhQufSpZxOsrTy7FmGG5zYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Win10\\Desktop\\Schule\\Sew\\Buchgeschaeft_V2\\Buchgeschäft\\BookstoreLibrary\\Buchbibliothek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

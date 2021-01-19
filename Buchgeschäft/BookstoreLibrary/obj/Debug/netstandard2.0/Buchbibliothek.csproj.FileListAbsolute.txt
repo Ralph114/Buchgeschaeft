@@ -1,0 +1,17 @@
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschäft\BookstoreLibrary\bin\Debug\netstandard2.0\Buchbibliothek.deps.json
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschäft\BookstoreLibrary\bin\Debug\netstandard2.0\Buchbibliothek.dll
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschäft\BookstoreLibrary\bin\Debug\netstandard2.0\Buchbibliothek.pdb
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschäft\BookstoreLibrary\obj\Debug\netstandard2.0\Buchbibliothek.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschäft\BookstoreLibrary\obj\Debug\netstandard2.0\Buchbibliothek.AssemblyInfo.cs
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschäft\BookstoreLibrary\obj\Debug\netstandard2.0\Buchbibliothek.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschäft\BookstoreLibrary\obj\Debug\netstandard2.0\Buchbibliothek.dll
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschäft\BookstoreLibrary\obj\Debug\netstandard2.0\Buchbibliothek.pdb
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschaeft_V2\Buchgeschäft\BookstoreLibrary\bin\Debug\netstandard2.0\Buchbibliothek.deps.json
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschaeft_V2\Buchgeschäft\BookstoreLibrary\bin\Debug\netstandard2.0\Buchbibliothek.dll
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschaeft_V2\Buchgeschäft\BookstoreLibrary\bin\Debug\netstandard2.0\Buchbibliothek.pdb
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschaeft_V2\Buchgeschäft\BookstoreLibrary\obj\Debug\netstandard2.0\Buchbibliothek.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschaeft_V2\Buchgeschäft\BookstoreLibrary\obj\Debug\netstandard2.0\Buchbibliothek.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschaeft_V2\Buchgeschäft\BookstoreLibrary\obj\Debug\netstandard2.0\Buchbibliothek.AssemblyInfo.cs
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschaeft_V2\Buchgeschäft\BookstoreLibrary\obj\Debug\netstandard2.0\Buchbibliothek.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschaeft_V2\Buchgeschäft\BookstoreLibrary\obj\Debug\netstandard2.0\Buchbibliothek.dll
+C:\Users\Win10\Desktop\Schule\Sew\Buchgeschaeft_V2\Buchgeschäft\BookstoreLibrary\obj\Debug\netstandard2.0\Buchbibliothek.pdb
